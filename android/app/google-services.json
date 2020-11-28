@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "42655606473",
+    "firebase_url": "https://ninja-brew-crew-6a4f9.firebaseio.com",
+    "project_id": "ninja-brew-crew-6a4f9",
+    "storage_bucket": "ninja-brew-crew-6a4f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42655606473:android:b06d7745fb2301332ccf18",
+        "android_client_info": {
+          "package_name": "realyn.ninja_brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42655606473-2iepc6cmb40777neuufe15m8vjbpntci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_j3zH45XNZLoJdhFMFC19xJfjnCQC3aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42655606473-2iepc6cmb40777neuufe15m8vjbpntci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
